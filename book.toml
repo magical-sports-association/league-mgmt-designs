@@ -1,0 +1,6 @@
+[book]
+authors = ["CountTails"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Magical Sports Application Design Docs"
